@@ -93,8 +93,10 @@ C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\bin\Debug\netcoreapp3.
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.csprojAssemblyReference.cache
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.AssemblyInfoInputs.cache
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.AssemblyInfo.cs
-C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.csproj.CoreCompileInputs.cache
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.csproj.CopyComplete
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.dll
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.pdb
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.genruntimeconfig.cache
+C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Projects\Mocking_Moq_xUnit\CreditCardApplications.Test\obj\Debug\netcoreapp3.1\CreditCardApplications.Test.csproj.CoreCompileInputs.cache
