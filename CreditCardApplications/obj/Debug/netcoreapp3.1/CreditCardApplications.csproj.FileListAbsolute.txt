@@ -6,3 +6,4 @@ C:\Projects\Mocking_Moq_xUnit\CreditCardApplications\obj\Debug\netcoreapp3.1\Cre
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csproj.CoreCompileInputs.cache
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.dll
 C:\Projects\Mocking_Moq_xUnit\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.pdb
+C:\Projects\Mocking_Moq_xUnit\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csprojAssemblyReference.cache
